@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body, html {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 4em;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    top: 50vh;
+    transform: translateY(-50%);
+}
