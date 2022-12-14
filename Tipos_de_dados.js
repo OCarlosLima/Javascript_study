@@ -1,10 +1,4 @@
 // Boolean
-// Null
-// Undefined
-// Number
-// String
-
-// Boolean
 // Valor logico
 var a = true;
 var b = false;
