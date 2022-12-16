@@ -3,7 +3,8 @@ console.log('String com aspas simples');
 console.log("String com aspas duplas");
 
 // Para imprimir aspas dentro da string, deve haver uma diferente fora
-console.log('Texto "entre" aspas');
+console.log('Texto "entre aspas" duplas');
+console.log("Texto 'entre aspas' simples")
 
 // Pode concatenar textos com +=
 var str = "Texto " + "estando "
